@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f2339da-4d2d-4dac-b7c3-e28b096a2ea0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hand_traking_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check_hand_tracking_module.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hand_traking_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/hand_traking_module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.hand_traking_module">
+  <component name="RunManager" selected="Python.check_hand_tracking_module">
+    <configuration name="check_hand_tracking_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check_hand_tracking_module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hand_tracking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.check_hand_tracking_module" />
         <item itemvalue="Python.hand_traking_module" />
         <item itemvalue="Python.hand_tracking" />
         <item itemvalue="Python.nn" />
@@ -122,22 +145,22 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="1050" y="116" width="769" height="875" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1620321178846" />
-    <state width="937" height="277" key="GridCell.Tab.0.bottom" timestamp="1620324680813">
+    <state width="937" height="277" key="GridCell.Tab.0.bottom" timestamp="1620325653193">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="937" height="277" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1620324680813" />
-    <state width="937" height="277" key="GridCell.Tab.0.center" timestamp="1620324680813">
+    <state width="937" height="277" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1620325653193" />
+    <state width="937" height="277" key="GridCell.Tab.0.center" timestamp="1620325653192">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="937" height="277" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1620324680813" />
-    <state width="937" height="277" key="GridCell.Tab.0.left" timestamp="1620324680812">
+    <state width="937" height="277" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1620325653192" />
+    <state width="937" height="277" key="GridCell.Tab.0.left" timestamp="1620325653191">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="937" height="277" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1620324680812" />
-    <state width="937" height="277" key="GridCell.Tab.0.right" timestamp="1620324680813">
+    <state width="937" height="277" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1620325653191" />
+    <state width="937" height="277" key="GridCell.Tab.0.right" timestamp="1620325653193">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="937" height="277" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1620324680813" />
+    <state width="937" height="277" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1620325653193" />
     <state x="898" y="188" key="SettingsEditor" timestamp="1620303908639">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

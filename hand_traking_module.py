@@ -53,7 +53,7 @@ def main():
         mlList = detector.findPosition(img)
 
         if len(mlList) != 0:
-            print(mlList[4])
+            print(mlList[0])
 
         cTime = time.time()
         fps = 1 / (cTime - pTime)
