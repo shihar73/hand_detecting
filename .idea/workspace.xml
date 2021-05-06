@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f2339da-4d2d-4dac-b7c3-e28b096a2ea0" name="Default Changelist" comment="" />
+    <list default="true" id="0f2339da-4d2d-4dac-b7c3-e28b096a2ea0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hand_traking_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1s9w1r82sVYUmGji3jzMlRR0BfY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,7 +32,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.hand_tracking">
+  <component name="RunManager" selected="Python.hand_traking_module">
     <configuration name="hand_tracking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -39,6 +46,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hand_tracking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hand_traking_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hand_traking_module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hand_traking_module" />
         <item itemvalue="Python.hand_tracking" />
         <item itemvalue="Python.nn" />
       </list>
@@ -89,25 +118,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="937" height="277" key="GridCell.Tab.0.bottom" timestamp="1620320669075">
+    <state x="1050" y="116" width="769" height="875" key="CommitChangelistDialog2" timestamp="1620321178846">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="937" height="277" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1620320669075" />
-    <state width="937" height="277" key="GridCell.Tab.0.center" timestamp="1620320669073">
+    <state x="1050" y="116" width="769" height="875" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1620321178846" />
+    <state width="937" height="277" key="GridCell.Tab.0.bottom" timestamp="1620324680813">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="937" height="277" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1620320669073" />
-    <state width="937" height="277" key="GridCell.Tab.0.left" timestamp="1620320669072">
+    <state width="937" height="277" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1620324680813" />
+    <state width="937" height="277" key="GridCell.Tab.0.center" timestamp="1620324680813">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="937" height="277" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1620320669072" />
-    <state width="937" height="277" key="GridCell.Tab.0.right" timestamp="1620320669074">
+    <state width="937" height="277" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1620324680813" />
+    <state width="937" height="277" key="GridCell.Tab.0.left" timestamp="1620324680812">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="937" height="277" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1620320669074" />
+    <state width="937" height="277" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1620324680812" />
+    <state width="937" height="277" key="GridCell.Tab.0.right" timestamp="1620324680813">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="937" height="277" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1620324680813" />
     <state x="898" y="188" key="SettingsEditor" timestamp="1620303908639">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="898" y="188" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1620303908639" />
+    <state x="1212" y="473" width="455" height="161" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620321186018">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1212" y="473" width="455" height="161" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1620321186018" />
   </component>
 </project>
